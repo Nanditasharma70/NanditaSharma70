@@ -14,9 +14,10 @@
 ---
 
 ## 📌 My Projects  
-✔ **6Pos** - A complete POS system built with Laravel & Flutter.  
+✔ **6am Mart** - A complete e commerce system built with Laravel & Flutter.  
 ✔ **ElectroCart** - An eCommerce store for electronics.  
 ✔ **Fesion Kart** - A fashion eCommerce store.  
+✔ **Skap** - A fashion eCommerce store. 
 ✔ **Garage Master** - A car garage management system.  
 ✔ **Arogya AI** - A health and fitness project.  
 ✔ **Finance Web App** - A live poultry eCommerce platform.  
@@ -25,10 +26,10 @@
 ---
 
 ## 🔧 Technologies & Tools  
-- **Frontend:** React.js, Next.js, Vue.js  
+- **Frontend:** React.js, Next.js, Tailwind Css  
 - **Backend:** Node.js, Express.js, Laravel, CodeIgniter  
 - **Mobile:** React Native, Flutter  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Databases:** MongoDB, MySQL 
 - **Other:** Socket.io, API Development, Razorpay, Stripe  
 
 ---
