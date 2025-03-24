@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Connect With Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/nandita-sharma70/) | [Portfolio](https://portfolio-master-nanditasharma.vercel.app/) | [GitHub](https://github.com/nanditaSharma70) |[Instagram](https://www.instagram.com/_n.a.n.d.i.t.a_s.h.a.r.m.a/)   
+🔗 [LinkedIn](https://www.linkedin.com/in/nandita-sharma70/) | [Portfolio](https://portfolio-master-nanditasharma.vercel.app/) | [GitHub](https://github.com/nanditaSharma70) | [Instagram](https://www.instagram.com/_n.a.n.d.i.t.a_s.h.a.r.m.a/)   
 
 💡 Always open to collaboration & new opportunities!  
 
