@@ -2,6 +2,10 @@
 
 🚀 **MERN Stack Developer | Laravel | React Native | Flutter | CodeIgniter**  
 
+## 📫 Connect With Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/nandita-sharma70/) | [Portfolio](https://portfolio-master-nanditasharma.vercel.app/) | [GitHub](https://github.com/nanditaSharma70) | [Instagram](https://www.instagram.com/_n.a.n.d.i.t.a_s.h.a.r.m.a/)   
+
+
 ## 🛠 About Me  
 🔹 Passionate about building scalable and high-performance applications.  
 🔹 Experienced in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
@@ -33,9 +37,6 @@
 - **Other:** Socket.io, API Development, Razorpay, Stripe  
 
 ---
-
-## 📫 Connect With Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/nandita-sharma70/) | [Portfolio](https://portfolio-master-nanditasharma.vercel.app/) | [GitHub](https://github.com/nanditaSharma70) | [Instagram](https://www.instagram.com/_n.a.n.d.i.t.a_s.h.a.r.m.a/)   
 
 💡 Always open to collaboration & new opportunities!  
 
