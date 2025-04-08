@@ -1,6 +1,5 @@
-
-<img src="Nandita Sharma.png" alt="Banner" width="100%" />
 # 👋 Hi, I'm Nandita Sharma  
+<img src="Nandita Sharma.png" alt="Banner" width="100%" />
 
 🚀 **MERN Stack Developer | Laravel | React Native | Flutter | CodeIgniter**  
 
