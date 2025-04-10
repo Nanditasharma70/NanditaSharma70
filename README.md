@@ -49,8 +49,9 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-    <h2 align="center">📌 My Projects</h2>
+    
    <div align="center">
+     <h2>📌 My Projects</h2>
        ✔ <strong>6am Mart</strong> - A complete eCommerce system built with Laravel & Flutter  
        ✔ <strong>ElectroCart</strong> - An eCommerce store for electronics  
        ✔ <strong>Fesion Kart</strong> - A fashion eCommerce store  
