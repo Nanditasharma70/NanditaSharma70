@@ -47,16 +47,29 @@
 
 ---
 
-<h1 align="center"> 📌 My Projects  </h1>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
 
-✔ **6am Mart** - A complete eCommerce system built with Laravel & Flutter  
-✔ **ElectroCart** - An eCommerce store for electronics  
-✔ **Fesion Kart** - A fashion eCommerce store  
-✔ **Skap** - A fashion eCommerce store  
-✔ **Garage Master** - A car garage management system  
-✔ **Arogya AI** - A health and fitness project  
-✔ **Finance Web App** - A live poultry eCommerce platform  
-✔ **Heart Match** - A live poultry matrimonial website platform  
+  <!-- Left Side: Project List -->
+  <div style="flex: 1; min-width: 300px;">
+    <h2>📌 My Projects</h2>
+    <ul style="list-style-type: none; padding: 0; font-size: 16px; line-height: 1.8;">
+      <li>✔ <strong>6am Mart</strong> - A complete eCommerce system built with Laravel & Flutter</li>
+      <li>✔ <strong>ElectroCart</strong> - An eCommerce store for electronics</li>
+      <li>✔ <strong>Fesion Kart</strong> - A fashion eCommerce store</li>
+      <li>✔ <strong>Skap</strong> - A fashion eCommerce store</li>
+      <li>✔ <strong>Garage Master</strong> - A car garage management system</li>
+      <li>✔ <strong>Arogya AI</strong> - A health and fitness project</li>
+      <li>✔ <strong>Finance Web App</strong> - A live poultry eCommerce platform</li>
+      <li>✔ <strong>Heart Match</strong> - A live poultry matrimonial website platform</li>
+    </ul>
+  </div>
+
+  <!-- Right Side: GIF -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img align="right" alt="coding" width="100%" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
+  </div>
+
+</div>
 
 ---
 
