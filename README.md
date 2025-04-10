@@ -36,14 +36,14 @@
 
 
 <h1 align="center"> 🛠 About Me </h1>
-
+<div  align="center">
 🔹 Passionate about building scalable and high-performance applications.  
 🔹 Experienced in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
 🔹 Skilled in **Laravel, CodeIgniter, and PHP Development**.  
 🔹 Proficient in **React Native & Flutter** for cross-platform mobile development.  
 🔹 Knowledgeable in **API Development, Socket.io, Payment Integrations**.  
-
-<h1  align="center"> 💼 **Currently Working at:** Cloud 24 Web Services Pvt Ltd  </h1>
+</div>
+<h1  align="center"> 💼 Currently Working at: Cloud 24 Web Services Pvt Ltd  </h1>
 
 ---
 
