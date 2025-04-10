@@ -69,7 +69,7 @@
   </div>
 
   <!-- Right Side: GIF -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; align="right">
     <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="coding" width="400" />
   </div>
 
