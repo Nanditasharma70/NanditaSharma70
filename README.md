@@ -51,10 +51,10 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; margin-top: 30px;">
+
 
   <!-- Left Side: Project List -->
-  <div style="flex: 1;" align="left">
+ 
     <h2>📌 My Projects</h2>
     <ul style="list-style-type: none; padding: 0; font-size: 16px; line-height: 1.8;">
       <li>✔ <strong>6am Mart</strong> - A complete eCommerce system built with Laravel & Flutter</li>
@@ -68,10 +68,7 @@
     </ul>
   </div>
 
-  <!-- Right Side: GIF -->
-  <div style="flex-shrink: 0; align="right">
-    <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="coding" width="400" />
-  </div>
+ 
 
 </div>
 
@@ -81,13 +78,19 @@
 
 
 <h1  align="center"> 🔧 Technologies & Tools</h1>  
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; margin-top: 30px;">
+ <div style="flex: 1;" align="left">
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Laravel, CodeIgniter  
 - **Mobile:** React Native, Flutter  
 - **Databases:** MongoDB, MySQL  
-- **Other:** Socket.io, API Development, Razorpay, Stripe  
-
+- **Other:** Socket.io, API Development, Razorpay, Stripe 
+ </div>
+ <!-- Right Side: GIF -->
+  <div style="flex-shrink: 0; align="right">
+    <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="coding" width="400" />
+  </div>
+</div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
