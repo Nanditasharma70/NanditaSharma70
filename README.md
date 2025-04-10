@@ -20,7 +20,6 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center"> 🚀 Tech Stack  </h1>
-
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -50,12 +49,8 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-
-
-
-  
-    <h2>📌 My Projects</h2>
-   
+    <h2 align="center">📌 My Projects</h2>
+   <div align="center">
        ✔ <strong>6am Mart</strong> - A complete eCommerce system built with Laravel & Flutter  
        ✔ <strong>ElectroCart</strong> - An eCommerce store for electronics  
        ✔ <strong>Fesion Kart</strong> - A fashion eCommerce store  
@@ -64,7 +59,7 @@
        ✔ <strong>Arogya AI</strong> - A health and fitness project  
        ✔ <strong>Finance Web App</strong> - A live poultry eCommerce platform  
        ✔ <strong>Heart Match</strong> - A live poultry matrimonial website platform</li
-
+</div>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
