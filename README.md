@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nandita Sharma  
+<h1 align="center">👋 Hi, I'm Nandita Sharma  </h1>
 
 <div align="center">
   <img src="Nandita Sharma.png" alt="Banner" width="100%" />
@@ -6,7 +6,7 @@
 
 🚀 **MERN Stack Developer | Laravel | React Native | Flutter | CodeIgniter**  
 
-## 📫 Connect With Me  
+<h1 align="center">📫 Connect With Me  </h1>
 
 <div align="center">
   🔗 
@@ -17,7 +17,7 @@
 </div>
 
 
-## 🚀 Tech Stack  
+<h1 align="center"> 🚀 Tech Stack  </h1>
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,7 +35,7 @@
 </div>
 
 
-## 🛠 About Me  
+<h1 align="center"> 🛠 About Me </h1>
 
 🔹 Passionate about building scalable and high-performance applications.  
 🔹 Experienced in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
@@ -43,11 +43,11 @@
 🔹 Proficient in **React Native & Flutter** for cross-platform mobile development.  
 🔹 Knowledgeable in **API Development, Socket.io, Payment Integrations**.  
 
-💼 **Currently Working at:** Cloud 24 Web Services Pvt Ltd  
+<h1  align="center"> 💼 **Currently Working at:** Cloud 24 Web Services Pvt Ltd  </h1>
 
 ---
 
-## 📌 My Projects  
+<h1 align="center"> 📌 My Projects  </h1>
 
 ✔ **6am Mart** - A complete eCommerce system built with Laravel & Flutter  
 ✔ **ElectroCart** - An eCommerce store for electronics  
@@ -60,7 +60,7 @@
 
 ---
 
-## 🔧 Technologies & Tools  
+<h1  align="center"> 🔧 Technologies & Tools</h1>  
 
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Laravel, CodeIgniter  
