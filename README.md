@@ -5,6 +5,7 @@
 </div>
 
 🚀 **MERN Stack Developer | Laravel | React Native | Flutter | CodeIgniter**  
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center">📫 Connect With Me  </h1>
 
