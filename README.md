@@ -16,6 +16,7 @@
   <a href="https://www.instagram.com/_n.a.n.d.i.t.a_s.h.a.r.m.a/">Instagram</a>
 </div>
 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center"> 🚀 Tech Stack  </h1>
 
@@ -34,6 +35,7 @@
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%231572B6.svg?style=for-the-badge&logo=laravel&logoColor=white"/> 
 </div>
 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center"> 🛠 About Me </h1>
 <div  align="center">
@@ -45,12 +47,13 @@
 </div>
 <h1  align="center"> 💼 Currently Working at: Cloud 24 Web Services Pvt Ltd  </h1>
 
----
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
 
   <!-- Left Side: Project List -->
-  <div style="flex: 1; min-width: 300px;">
+  <div align="left">
     <h2>📌 My Projects</h2>
     <ul style="list-style-type: none; padding: 0; font-size: 16px; line-height: 1.8;">
       <li>✔ <strong>6am Mart</strong> - A complete eCommerce system built with Laravel & Flutter</li>
@@ -63,15 +66,17 @@
       <li>✔ <strong>Heart Match</strong> - A live poultry matrimonial website platform</li>
     </ul>
   </div>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
   <!-- Right Side: GIF -->
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+ 
     <img align="right" alt="coding" width="100%" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
-  </div>
+
 
 </div>
 
----
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 
 <h1  align="center"> 🔧 Technologies & Tools</h1>  
 
@@ -81,7 +86,8 @@
 - **Databases:** MongoDB, MySQL  
 - **Other:** Socket.io, API Development, Razorpay, Stripe  
 
----
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 
 <div align="center">
 
@@ -105,7 +111,8 @@
 
 </div>
 
----
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 
 <div align="center">
 💡 Always open to collaboration & new opportunities!  
