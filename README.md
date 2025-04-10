@@ -54,7 +54,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
 
   <!-- Left Side: Project List -->
-  <div align="left">
+  <div style="flex: 1; min-width: 300px;" align="left">
     <h2>📌 My Projects</h2>
     <ul style="list-style-type: none; padding: 0; font-size: 16px; line-height: 1.8;">
       <li>✔ <strong>6am Mart</strong> - A complete eCommerce system built with Laravel & Flutter</li>
@@ -66,15 +66,18 @@
       <li>✔ <strong>Finance Web App</strong> - A live poultry eCommerce platform</li>
       <li>✔ <strong>Heart Match</strong> - A live poultry matrimonial website platform</li>
     </ul>
+
+    <!-- Optional: Divider Line -->
+    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' alt="divider" style="margin-top: 20px; width: 100%;" />
   </div>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
   <!-- Right Side: GIF -->
- 
-    <img align="right" alt="coding" width="100%" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
-
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img alt="coding" width="100%" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
+  </div>
 
 </div>
+
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
